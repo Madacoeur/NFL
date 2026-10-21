@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environnements et outils
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Artefacts de construction temporaires
+build/
+dist/
